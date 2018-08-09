@@ -1,0 +1,21 @@
+body {
+  background-image: url("../img/USAbackground.jpg");
+}
+
+.container {
+  margin-top: 30px;
+  background-color: white;
+  padding: 10px;
+}
+
+h1 {
+  margin-bottom: 30px;
+}
+
+#voter {
+  display: none;
+}
+
+#underage {
+  display: none;
+}
